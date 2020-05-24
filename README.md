@@ -13,7 +13,7 @@
   Projeto 
 </h1>
 <p>
-  Foi desenvolvido uma Interface de Chat, sem socket, 
+  Foi desenvolvido um app mobile com a Interface de Chat, sem socket, 
   com as seguintes funcionalidades: registrar Usuário,  sistema de Login, segistrar Contato, 
   enviar mensagem para o contato assim como receber, deletar e alterar a mensagem.
 </p>
