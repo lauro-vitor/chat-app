@@ -27,7 +27,7 @@
   Clone
 </h1>
 <p>
-  Para Clonar o projeto deve ser adiconado as seguintes dependências:
+  Para Clonar o projeto deve ser adicionado as seguintes dependências:
 </p>
  <ul>
   <li>
